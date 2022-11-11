@@ -1,12 +1,4 @@
 Api Rodando em Produção https://gilrsrideapi.herokuapp.com/
-Rotas da api 
-ListAll:https://gilrsrideapi.herokuapp.com/avaliacao
-Updata:https://gilrsrideapi.herokuapp.com/avaliacao/1
-Delete: https://gilrsrideapi.herokuapp.com/avaliacao/3
-cadastro: https://gilrsrideapi.herokuapp.com/avaliacao
-List: https://gilrsrideapi.herokuapp.com/avaliacao/1
-
-
 
 
 Murilo Sousa de Carvalho rm88650
